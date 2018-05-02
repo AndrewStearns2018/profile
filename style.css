@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(220, 220, 220);
+  font-family: 'Open sans', sans-serif;
+  color: rgb(70, 70, 70);
+  font-size: 16px;
+  line-height: 1.6em;
+  font-weight: 300;
+}
+
+h1 {
+  color: #E84855;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  line-height: 1.2em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  line-height: 1.2em;
+  color: #E84855;
+}
+
+h3 {
+  font-family:'Montserrat', sans-serif;
+  font-size: 22px;
+  line-height: 1.2em;
+  color: #247BA0;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #247BA0;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  margin: 10px auto;
+  padding: 10px;
+  width: 450px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgb(240, 240, 240);
+  text-align: justify;
+}
+
+ul li {
+  display: inline;
+}
+
+.list-item {
+  margin: 10px auto;
+  text-align: center;
+
+}
+
+.book-image {
+  margin: 10px;
+  border: solid;
+  border-color: rgb(70, 70, 70);
+  border-width: 1px;
+}
+
+.top-of-page {
+  margin: auto;
+  text-align: center;
+}
+
+#books-to-read {
+  text-align: center;
+}
+
